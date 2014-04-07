@@ -4,3 +4,5 @@ Pristine Packages/
 Settings/
 *.cache
 *.pyc
+*~
+Packages/User/Package Control.last-run
