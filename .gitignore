@@ -1,0 +1,6 @@
+Backup/
+Installed Packages/
+Pristine Packages/
+Settings/
+*.cache
+*.pyc
