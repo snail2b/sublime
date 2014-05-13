@@ -4,6 +4,9 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai Extended"
 	],
 	"theme": "Flatland Dark.sublime-theme"
 }
